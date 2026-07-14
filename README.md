@@ -104,7 +104,6 @@ graph LR
     style API fill:#10b981,stroke:#059669,color:#fff
     style DB fill:#f59e0b,stroke:#d97706,color:#fff
 ```
-<img width="5832" height="1058" alt="Client Application API Flow-2026-07-14-040828" src="https://github.com/user-attachments/assets/c69729aa-3a86-4cf4-8021-68fedc76f0d2" />
 
 
 ### 2. Use Case Diagram
@@ -144,8 +143,6 @@ flowchart LR
     style PM fill:#f59e0b,color:#fff,stroke:#b45309
     style User fill:#3b82f6,color:#fff,stroke:#1d4ed8
 ```
-<img width="667" height="862" alt="Screenshot 2026-07-12 213429" src="https://github.com/user-attachments/assets/90356e38-00e6-434a-a846-f0126f2afeb2" />
-
 
 ### 3. Entity Relationship Diagram (ERD)
 Defines the database schema, tables, relationships, and constraints.
@@ -183,4 +180,3 @@ erDiagram
         timestamp created_at
     }
 ```
-<img width="3793" height="4866" alt="User-Project Task-2026-07-14-041118" src="https://github.com/user-attachments/assets/bea40f35-c995-4f48-a5e6-bb3077c94331" />
