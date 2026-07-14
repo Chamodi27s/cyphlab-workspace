@@ -2,6 +2,10 @@
 
 A full-stack, enterprise-grade project and team task management application built for the CyphLab Software Engineering Internship assignment. This platform provides a centralized workspace for teams to track initiatives, manage issues, and collaborate efficiently using an interactive Kanban-style board.
 
+## 🎥 Project Demo Video
+You can watch the full application flow demo here: 
+[Click here to watch the CyphLab Demo Video](https://drive.google.com/file/d/1O3ktyNvhtANzLBuoolim3GZMz-86tOrT/view?usp=sharing)
+
 ## 🚀 Core Features
 * **Role-Based Access Control (RBAC):** Distinct privileges for Administrator, Project Manager (PM), and Team Member (USER) roles.
 * **Project Management:** Create and manage distinct projects and assign team members.
